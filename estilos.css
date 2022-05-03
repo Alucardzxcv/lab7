@@ -9,8 +9,8 @@ h2{
 body{
     width: 1400px;
     height: 600px;
-    background-color: black;
-    border:4px rgb(193, 224, 15) solid;
+    background-color: rgb(12, 10, 53);
+  
 
 }
 .formulario{
@@ -21,6 +21,6 @@ body{
 
     
     text-align: center;
-    border:4px white solid;
-    background-color: rgb(117, 3, 3);
+    border:4px rgb(255, 255, 255) solid;
+    background-color: rgb(1, 145, 228);
 }
